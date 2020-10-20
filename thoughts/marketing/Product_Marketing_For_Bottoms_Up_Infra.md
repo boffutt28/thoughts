@@ -1,8 +1,8 @@
-#Thoughts On Product Marketing For Bottoms Up Infra
+# Thoughts On Product Marketing For Bottoms Up Infra
 <img src="../../diagrams/marketing/Product_Marketing_For_Bottoms_Up_Infra.png" align="center" width="200%" height="200%"/>
 
 
-##High Level Market Changes
+## High Level Market Changes
 To kick things off, I think it’s important to cover a few high level trends that have really changed buying behavior in recent years. These shifts have required a relatively deep re-thinking of product marketing, and require throwing out a good bit of historical wisdom. The marketing role has changed a lot more generally (become much more scientific and metrics driven), but we’ll stick to product marketing for this doc. 
 
 Fundamentally, I think the changes outlined below are the result of a combination of the internet + a generational change in middle management, and mostly boil down to the fact that people just do not want to be “sold to” in the traditional sense anymore. We had a lot of reps that came from legacy companies like Oracle while I was at MemSQL, and I don’t think many of them fully appreciated the changes below. I saw firsthand how painful that ended up being on our ability to sell, and we ended up churning a lot of those reps.
@@ -19,12 +19,12 @@ The key changes are:
 
 - **Sales Are Champion Led** -- Product Marketing for Open Source software is notoriously difficult and really unlike any other sector. Because your buyer is usually both analytical and well informed (and you have a free option), marketing open source is fundamentally different from marketing productivity/SaaS/traditional closed source software. It is often the case that a company is already using your product in some capacity when a buying conversation begins, so you need to focus on arming the champion (developer) with the tools they need to make the case to their boss that a purchase makes sense. This champion enablement is critical for moving from the “bottom” to the “middle” and eventually the “enterprise”. 
 
-##A Framework For Understanding Personas
+## A Framework For Understanding Personas
 Much like product development, the first thing to understand in product marketing is the relevant personas. In product development, your fundamental goal is to build features that resonate with a user need. In product marketing, your fundamental goal is to build a message that resonates with a buyer need. These are sometimes one in the same, but often they are different. 
 
 In the case of open source, there are three key personas to keep in mind:
 
-###"Bottom" (Developers)
+### "Bottom" (Developers)
 - **Cares About:** Usability, stability, “street cred” with their friends for using the cool new tool, product support. Above all, an antidote to a day to day pain and suffering -- this group feels it most acutely. 
 
 - **Engages Through:** Documentation, Slack, Hackernews, Meetups, their friends.
@@ -32,7 +32,7 @@ In the case of open source, there are three key personas to keep in mind:
 - **Risk Tolerance:** High. Wants to work with the newest and coolest technology and is willing to try new things to ease pain. 
 
 
-###"Middle" (Directors/VPs)
+### "Middle" (Directors/VPs)
 	
 - **Cares About:** Operational efficiency, performance, stability (less outages), and making a name for themselves.
 
@@ -40,7 +40,7 @@ In the case of open source, there are three key personas to keep in mind:
 
 - **Risk Tolerance:** Medium. Has to take product risk into account, but sees opportunity to improve their team and advance their career. 
 
-###"Top" (Procurement/Senior Executive/CIO)
+### "Top" (Procurement/Senior Executive/CIO)
 - **Cares About:** They care about all the checkboxes, security, compliance, and adherence to company policies ("does it integrate with X)'.
 
 - **Engages Through:** Outside Sales representatives, sales enablement materials.
@@ -50,7 +50,7 @@ Usually making a large buying decision and big standardization across the org, s
 
 
 
-##The Goal Of Product Marketing: Clarity and Trust
+## The Goal Of Product Marketing: Clarity and Trust
 **The overarching goal of product marketing is to build clarity and trust.**
 
 It is not to try and sell your product, over promise, or use buzz words to drive website traffic (note that this is still a *super* critical marketing activity, but is best left to community marketing and demand gen vs product marketing). Website traffic, like Github stars, is a vanity metric that indicates passive interest rather than active engagement. Your goal with product marketing is not eyeballs, it’s what to do with those eyeballs once you have them. In general, this means downloads and efficient sales. Claiming your product can do things that it can’t will just result in wasted time for your sales team and a poor customer experience overall. Similarly, painting too broad a picture (even if true) of your product’s use cases will just muddle sales conversations and make ramping salespeople super painful. It may seem like narrowing use cases will hurt sales, but it will actually help them. A sales team is not going to understand your product in the depth that you do, so it’s important to narrow things down into a repeatable process. 
