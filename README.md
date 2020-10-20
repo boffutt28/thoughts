@@ -5,3 +5,6 @@ This repository is meant to be a collection of writings on all things related to
 
 ### Marketing
 - [Product Marketing For Bottoms Up Infra](/thoughts/marketing/Product_Marketing_For_Bottoms_Up_Infra.md)
+
+### Product
+- [Grass, Omlettes, And Just In Time Complexity](https://tech-startup.cioreview.com/cxoinsight/grass-omelettes-and-just-in-time-complexity-nid-31972-cid-213.html)
