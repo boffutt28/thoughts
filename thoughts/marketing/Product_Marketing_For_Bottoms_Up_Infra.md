@@ -24,7 +24,7 @@ Much like product development, the first thing to understand in product marketin
 
 In the case of open source, there are three key personas to keep in mind:
 
-### "Bottom" (Developers)
+#### "Bottom" (Developers)
 - **Cares About:** Usability, stability, “street cred” with their friends for using the cool new tool, product support. Above all, an antidote to a day to day pain and suffering -- this group feels it most acutely. 
 
 - **Engages Through:** Documentation, Slack, Hackernews, Meetups, their friends.
@@ -32,7 +32,7 @@ In the case of open source, there are three key personas to keep in mind:
 - **Risk Tolerance:** High. Wants to work with the newest and coolest technology and is willing to try new things to ease pain. 
 
 
-### "Middle" (Directors/VPs)
+#### "Middle" (Directors/VPs)
 	
 - **Cares About:** Operational efficiency, performance, stability (less outages), and making a name for themselves.
 
@@ -40,7 +40,7 @@ In the case of open source, there are three key personas to keep in mind:
 
 - **Risk Tolerance:** Medium. Has to take product risk into account, but sees opportunity to improve their team and advance their career. 
 
-### "Top" (Procurement/Senior Executive/CIO)
+#### "Top" (Procurement/Senior Executive/CIO)
 - **Cares About:** They care about all the checkboxes, security, compliance, and adherence to company policies ("does it integrate with X)'.
 
 - **Engages Through:** Outside Sales representatives, sales enablement materials.
