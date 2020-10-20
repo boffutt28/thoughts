@@ -5,7 +5,7 @@
 ## High Level Market Changes
 To kick things off, I think it’s important to cover a few high level trends that have really changed buying behavior in recent years. These shifts have required a relatively deep re-thinking of product marketing, and require throwing out a good bit of historical wisdom. The marketing role has changed a lot more generally (become much more scientific and metrics driven), but we’ll stick to product marketing for this doc. 
 
-Fundamentally, I think the changes outlined below are the result of a combination of the internet + a generational change in middle management, and mostly boil down to the fact that people just do not want to be “sold to” in the traditional sense anymore. We had a lot of reps that came from legacy companies like Oracle while I was at MemSQL, and I don’t think many of them fully appreciated the changes below. I saw firsthand how painful that ended up being on our ability to sell, and we ended up churning a lot of those reps.
+Fundamentally, I think the changes outlined below are the result of a combination of the internet + a generational change in middle management, and mostly boil down to the fact that people just do not want to be “sold to” in the traditional sense anymore. The thoughts below are informed by my time using open source at Palantir, , PMing a closed source product at MemSQL, and investing in open source/bottoms up technologies at Index Ventures.
 
 The key changes are: 
 
