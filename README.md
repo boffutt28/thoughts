@@ -3,4 +3,5 @@ This repository is meant to be a collection of writings on all things related to
 
 # Table of Contents
 
-TO BE FILLED. 
+### Marketing
+- [Product Marketing For Bottoms Up Infra](/thoughts/marketing/Product_Marketing_For_Bottoms_Up_Infra.md)
