@@ -1,5 +1,7 @@
 # Overview
-This repository is meant to be a collection of writings on all things related to building products and businessees in open source, infrastructure, and AI. The intent is to provide a single collection point that allows for feedback and conversation. My hope is that by posting here as opposed to blogging others can add their thoughts as well. The collective conciousess is nearly always a better one than the individual.
+This repository is meant to be a collection of writings on all things related to building products and businessees in open source, infrastructure, and AI. The intent is to provide a single collection point that allows for feedback and conversation. 
+
+Opinions and thoughts are not really static things. Like code, they are constantly being "debugged" and evolved over time. The hope is that using Github will allow for this sort of evolution vs a more static format such as a blog.  
 
 # Table of Contents
 
